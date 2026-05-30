@@ -1,7 +1,7 @@
 # Telco Customer Churn Prediction
 
 ## Overview
-This project focuses on predicting customer churn in the telecommunications industry using Machine Learning. The goal is to identify customers who are likely to discontinue their services and provide actionable insights that can help improve customer retention strategies.
+This project focuses on predicting customer churn in the telecommunications industry using Machine Learning. The goal is to identify customers who are likely to discontinue their services and provide actionable insights that can help improve customer retention strategies..
 
 The project includes:
 • Exploratory Data Analysis (EDA)  
